@@ -1,7 +1,10 @@
 import React from 'react'
+import AppRoutes from './Routes/Routes'
 
 export default function app() {
   return (
-    <div>app</div>
+    <div className='app'>
+      <AppRoutes/>
+    </div>
   )
 }
