@@ -3,7 +3,7 @@ import styles from '../../styles/Sidebar.module.css'
 
 const Sidebar = () => {
   return (
-    <section className={styles.sidebar}>
+    <section className={styles.asd}>
     </section>
   );  
 }
